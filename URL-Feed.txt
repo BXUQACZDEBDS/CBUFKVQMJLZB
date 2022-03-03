@@ -1,9 +1,0 @@
-################################################################
-# URL Blacklist gemäss RWB                                     #
-################################################################
-#
-# URL
-https://cdn.discordapp.com/attachments/928503440139771947/930108637681184768/Tbopbh.jpg
-https://mail.nais-gov.org/2021-07-30-08-55-07.xlsm
-http://52711471.swh.strato-hosting.eu/trice/YUBhLmNvbQ==
-https://sites.google.com/view/sharepoint-ds/
