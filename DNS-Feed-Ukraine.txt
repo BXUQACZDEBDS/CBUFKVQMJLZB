@@ -1,9 +1,5 @@
 ################################################################
-# DNS Blacklist gemäss NCSC wegen Ukraine				       #
-# Last updated: 2022-03-01 17:00:00 UTC                        #
-# erstellt von Michael Reinprecht                              #
-# 														       #
-#      														   #
+# DNS Blacklist gemäss RWB                                     #
 ################################################################
 #
 # DNS
