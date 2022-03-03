@@ -1,0 +1,11 @@
+################################################################
+# URL Blacklist gemäss NCSC wegen Ukraine				       #
+# Last updated: 2022-03-01 17:00:00 UTC                        #
+# erstellt von Michael Reinprecht                              #
+# 														       #
+#      														   #
+################################################################
+#
+# URL
+https://cdn.discordapp.com/attachments/928503440139771947/930108637681184768/Tbopbh.jpg
+https://mail.nais-gov.org/2021-07-30-08-55-07.xlsm

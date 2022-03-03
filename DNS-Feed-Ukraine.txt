@@ -1,0 +1,23 @@
+################################################################
+# DNS Blacklist gemäss NCSC wegen Ukraine				       #
+# Last updated: 2022-03-01 17:00:00 UTC                        #
+# erstellt von Michael Reinprecht                              #
+# 														       #
+#      														   #
+################################################################
+#
+# DNS
+famesurvelizerditis.sytes.net
+tancesucesm.chickenkiller.com
+artedriendfrim.hopto.org
+widget.forum-pokemon.com
+ns.ns2-dns.com
+ns.ns3-dns.com
+ns3-dns.com
+ns2-dns.com
+cs1.wpc-v0cdn.org
+wpc-v0cdn.org
+ipv6-wpnc.net
+alt-2cdn.net
+nais-gov.org
+nais-gov.com

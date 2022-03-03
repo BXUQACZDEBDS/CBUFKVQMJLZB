@@ -1,0 +1,23 @@
+################################################################
+# Hash Blacklist gemäss NCSC wegen Ukraine				       #
+# Last updated: 2022-03-01 17:00:00 UTC                        #
+# erstellt von Michael Reinprecht                              #
+# 														       #
+#      														   #
+################################################################
+#
+# Hash
+d01e2c2e8df92edeb8298c55211bc4b6
+3adf9a59743bc5d8399f67cab5eb2daf28b9b863
+50df5734dd0c6c5983c21278f119527f9fdf6ef1d7e808a29754ebc5253e9a86
+bbb76de7654337fb6c2e851d106cebc7
+c59bc17659daca1b1ce65b6af077f86a648ad8a8
+c082a9117294fa4880d75a2625cf80f63c8bb159b54a7151553969541ac35862
+3c9d46dc4e664e20f1a7256e14a33766
+7d61c0dd0cd901221a9dff9df09bb90810754f10
+4e69bbb61329ace36fbe62f9fb6ca49c37e2e5a5293545c44d155641934e39d1
+3f22c0aeb1eec4350868368ea1cc798c
+438cd40caca70cafe5ca436b36ef7d3a6321e858
+ff17ccd8c96059461710711fcc8372cfea5f0f9eb566ceb6ab709ea871190dc6
+912342f1c840a42f6b74132f8a7c4ffe7d40fb77
+61b25d11392172e587d8da3045812a66c3385451
