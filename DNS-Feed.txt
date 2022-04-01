@@ -1,5 +1,5 @@
 ################################################################
-# DNS Blacklist                              #
+# DNS Blacklist                                                #
 ################################################################
 #
 # DNS
@@ -128,3 +128,7 @@ saifaldin.com
 smkn1grogolkediri.sch.id
 tahakasramehr.ir
 teslinq.co.ke
+duhokjava.com
+migestiononline.com
+munihuallaga.gob.pe
+vazhappallyscb.com
