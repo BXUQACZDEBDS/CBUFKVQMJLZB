@@ -4,7 +4,7 @@
 #
 # URL
 ftp://webdavml07.bplaced.net:21
-htp://military-ukraine.online/predicate/images/favicon.ico
+http://military-ukraine.online/predicate/images/favicon.ico
 http://1.161.75.176:995
 http://1.161.75.20:443
 http://1.161.80.17:995
@@ -1396,3 +1396,7 @@ https://endoftheendi.com/12.exe
 https://dotxvcnjlvdajkwerwoh.com
 https://aerulonoured.su
 https://rec.kindplanet.uns
+http://185.29.11.32/7722/document_shp.doc
+http://185.29.11.32/7722/vbc.exe
+http://185.29.11.32/7722/
+http://185.29.11.32/dashboard/
