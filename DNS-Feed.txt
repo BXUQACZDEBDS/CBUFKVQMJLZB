@@ -3,6 +3,9 @@
 ################################################################
 #
 # DNS
+helipak.ir
+randian.com
+xchangellc.net
 3635optical.ga
 50-50aravidis.gr
 56toddhill.com
