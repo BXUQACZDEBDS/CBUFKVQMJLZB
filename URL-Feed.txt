@@ -3,6 +3,9 @@
 ################################################################
 #
 # URL
+http://138.68.229.0/pe.dll
+https://dezword.com/apiv8/getStatus
+https://dezword.com/apiv8/updateConfig
 https://helipak.ir/urr/u5/RE/qANPABG3.zip
 https://randian.com/urr/gGk/oIl/3qy/khnOLJ9.zip
 https://xchangellc.net/urr/6Jm7mUuLYE.zip
