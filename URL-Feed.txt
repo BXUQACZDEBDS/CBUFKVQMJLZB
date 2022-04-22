@@ -3,6 +3,10 @@
 ################################################################
 #
 # URL
+http://168.100.8.42/micro.exe
+http://168.100.8.42/spisok.exe
+http://rivertimad.com/
+http://168.100.8.42/list.exe
 https://cdn.jsdelivr.net/gh/sukaut/beta@main/junit.js
 https://github.com/sukaut
 http://138.68.229.0/pe.dll
