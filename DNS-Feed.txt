@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+bnchain.co
 eleselektromekanik.com
 icn.com.np
 demo34.ckg.hk
