@@ -3,6 +3,8 @@
 ################################################################
 #
 # URL
+https://cdn.jsdelivr.net/gh/sukaut/beta@main/junit.js
+https://github.com/sukaut
 http://138.68.229.0/pe.dll
 https://dezword.com/apiv8/getStatus
 https://dezword.com/apiv8/updateConfig
