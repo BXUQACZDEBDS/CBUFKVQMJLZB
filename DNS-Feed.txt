@@ -3,6 +3,12 @@
 ################################################################
 #
 # DNS
+escueladecinemza.com.ar
+ciencias-exactas.com.ar
+counteract.com.br
+creemo.pl
+dancefox24.de
+focusmedica.in
 jyhsc.cc
 bnchain.co
 eleselektromekanik.com
