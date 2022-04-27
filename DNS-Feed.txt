@@ -3,6 +3,18 @@
 ################################################################
 #
 # DNS
+7gallery.com
+anat-bar.co.il
+bencevendeghaz.hu
+brendancleary.net
+clubmanager.net.ar
+dwwmaster.com
+e5web.com.br
+edoraseguros.com.br
+farschid.de
+hmeng.co.uk
+reneetten.nl
+stormapp.in
 assamesetea.com
 bhboutique.in
 cebregh.org
