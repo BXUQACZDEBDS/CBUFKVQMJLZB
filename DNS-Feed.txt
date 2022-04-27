@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+jyhsc.cc
 bnchain.co
 eleselektromekanik.com
 icn.com.np
