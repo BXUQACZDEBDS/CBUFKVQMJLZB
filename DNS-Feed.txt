@@ -3,6 +3,12 @@
 ################################################################
 #
 # DNS
+clubmanager.net.ar
+gerontogeriatria.org
+hogibo.net
+mightcode.com
+synology.me
+towardsun.net
 nuvez111.casacam.net
 nuvez110.camdvr.org
 harvey205.camdvr.org
