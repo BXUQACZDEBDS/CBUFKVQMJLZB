@@ -3,6 +3,9 @@
 ################################################################
 #
 # DNS
+secondavenuehomes.com
+perfumatech.com.br
+grupoconstructivocr.com
 ciencias-exactas.com.ar
 damiris.ro
 dl5.zahra-media.ir
