@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+judyhus19.dvrlists.com
 coordinarseguridad.co
 dwm-me.com
 egofit.co.uk
