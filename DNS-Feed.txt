@@ -3,6 +3,13 @@
 ################################################################
 #
 # DNS
+onedrive.live.com
+f8mbqa.db.files.1drv.com
+harvey205.camdvr.org
+harvey206.casacam.net
+harvey207.accesscam.org
+nuvez110.camdvr.org
+leaflet308.casacam.net
 bicaramimpi.com
 paparock.cl
 judyhus19.dvrlists.com
