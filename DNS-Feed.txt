@@ -3,6 +3,13 @@
 ################################################################
 #
 # DNS
+sendmail.website
+a0671524.xsph.ru
+a0667987.xsph.ru
+qiwardos.ru
+nitikora.ru
+milotraf.ru
+nikotod.ru
 onedrive.live.com
 f8mbqa.db.files.1drv.com
 harvey205.camdvr.org
