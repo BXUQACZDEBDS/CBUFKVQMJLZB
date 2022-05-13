@@ -3,6 +3,9 @@
 ################################################################
 #
 # DNS
+atabia.com
+libivi.com
+penofpurpose.com
 sendmail.website
 a0671524.xsph.ru
 a0667987.xsph.ru
