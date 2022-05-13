@@ -3,6 +3,13 @@
 ################################################################
 #
 # URL
+http://qiwardos.ru/get.php
+http://qiwardos.ru/index.php
+http://a0671524.xsph.ru/mo/faicon.ico
+http://a0671524.xsph.ru/bandage/precarious.xml
+http://a0667987.xsph.ru/zsu/faicon.ico
+http://a0667987.xsph.ru/preparations/rejection.xml
+https://icanhazip.com
 https://cdn.discordapp.com/attachments/968651208963276872/968651372633391125/video_002.mp4.zip
 http://185.193.89.11/video_002.mp4
 https://paparock.cl/par/MDX/csp/gdI/iNI9xZN.zip
