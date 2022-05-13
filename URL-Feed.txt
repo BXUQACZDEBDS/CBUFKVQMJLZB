@@ -3,6 +3,9 @@
 ################################################################
 #
 # URL
+https://212.192.246.115/i
+https://212.192.246.115/m
+https://212.192.246.115/p
 http://qiwardos.ru/get.php
 http://qiwardos.ru/index.php
 http://a0671524.xsph.ru/mo/faicon.ico
