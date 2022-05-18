@@ -3,6 +3,12 @@
 ################################################################
 #
 # DNS
+75155dae0c8c8496.main.jp
+adepgroup.com
+alsafwa.com.ly
+cnjskconstruction.com
+getlivetext.com
+mohammadyarico.com
 atabia.com
 libivi.com
 penofpurpose.com
