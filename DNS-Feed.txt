@@ -3,6 +3,12 @@
 ################################################################
 #
 # DNS
+anguianoss.com
+berekethaber.com
+bosny.com
+bpsjambi.id
+ismarttechnologies.com
+salledemode.com
 75155dae0c8c8496.main.jp
 adepgroup.com
 alsafwa.com.ly
