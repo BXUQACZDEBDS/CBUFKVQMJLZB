@@ -3,6 +3,12 @@
 ################################################################
 #
 # DNS
+dothome.co.kr
+iptime.org
+karimexpress.ma
+kingkongpizza.ru
+kingmode.ir
+koichiro-kimura.com
 anguianoss.com
 berekethaber.com
 bosny.com
