@@ -1,5 +1,3 @@
-# Trendmicro URL
-
 http://docs.trendmicro.com/
 http://isps300-de.census.trendmicro.com/
 http://isps300-en.census.trendmicro.com/
