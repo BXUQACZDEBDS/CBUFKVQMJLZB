@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+eter101.dvrlists.com
+eter103.dvrlists.com
 berekethaber.com
 bosny.com
 bulldogironworksllc.com
