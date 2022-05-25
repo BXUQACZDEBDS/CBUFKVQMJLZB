@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+eter101.dvrlists.com
 napolilovemark.com
 natrixsoftware.com
 norbealun.id.au
