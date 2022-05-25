@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+donlin.dvrlists.com
 hobbyhrs1.zapto.org
 hobbyhrs2.zapto.org
 hobbyhrs6.zapto.org
