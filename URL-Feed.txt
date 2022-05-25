@@ -3,6 +3,10 @@
 ################################################################
 #
 # URL
+http://192.210.149.242/mac.txt
+http://192.210.149.242/edi.vbs
+http://192.210.149.242/nokey.txt
+http://192.210.149.242/nokey.jpg
 http://natdemo.natrixsoftware.com/wp-admin/B1bA/
 http://octante.net/academia/At2FfFcDfkI/
 http://norbealun.id.au/images/ZL8/
