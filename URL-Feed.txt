@@ -3,6 +3,8 @@
 ################################################################
 #
 # URL
+http://104.168.33.12/200/vbc.exe
+https://api.telegram.org/bot1900392974:AAEB_yGGlWksNcNC4Dg08OgUSlmDON2w098/sendDocument
 http://192.210.149.242/mac.txt
 http://192.210.149.242/edi.vbs
 http://192.210.149.242/nokey.txt
