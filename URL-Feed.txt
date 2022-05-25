@@ -3,6 +3,8 @@
 ################################################################
 #
 # URL
+https://modhub.com.br/upload.hta
+https://conderadio.tv/939025739.hta
 https://cdn.discordapp.com/attachments/976148364968230964/976149247181357086/Video.mp4.zip
 https://cdn.discordapp.com/attachments/976148364968230964/976149549942984754/Video.mp4.zip
 http://104.168.33.12/200/vbc.exe
