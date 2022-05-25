@@ -3,6 +3,8 @@
 ################################################################
 #
 # URL
+https://cdn.discordapp.com/attachments/976148364968230964/976149247181357086/Video.mp4.zip
+https://cdn.discordapp.com/attachments/976148364968230964/976149549942984754/Video.mp4.zip
 http://104.168.33.12/200/vbc.exe
 https://api.telegram.org/bot1900392974:AAEB_yGGlWksNcNC4Dg08OgUSlmDON2w098/sendDocument
 http://192.210.149.242/mac.txt
