@@ -3,6 +3,14 @@
 ################################################################
 #
 # DNS
+hobbyhrs1.zapto.org
+hobbyhrs2.zapto.org
+hobbyhrs6.zapto.org
+henderson1.camdvr.org
+hendersonk1.hopto.org
+generem.camdvr.org
+generem2022.hopto.org
+generem2023.hopto.org
 airliftlimo.com
 liceum9.ru
 litescape.com.my
