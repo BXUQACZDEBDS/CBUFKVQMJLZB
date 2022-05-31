@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+SQL8003.site4now.net
+textbin.net
 eter101.dvrlists.com
 eter103.dvrlists.com
 berekethaber.com
