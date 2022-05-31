@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+man1mojokerto.xyz
+smarthinking.pe
 donlin.dvrlists.com
 judyhus19.dvrlists.com
 SQL8003.site4now.net
