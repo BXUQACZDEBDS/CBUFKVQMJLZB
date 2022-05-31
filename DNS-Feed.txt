@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+judyhus19.dvrlists.com
 SQL8003.site4now.net
 textbin.net
 eter101.dvrlists.com
