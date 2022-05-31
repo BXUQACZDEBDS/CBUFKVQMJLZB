@@ -3,6 +3,9 @@
 ################################################################
 #
 # URL
+http://107.172.100.226/hi3.vbs
+http://107.172.100.226/hi2.txt
+http://107.172.100.226/hi.jpg
 https://drive.google.com/file/d/1RPmi8gjNtqSxDBUfLqtjWBaZyZyYjq_m/view?usp=3Ddrive_web
 https://textbin.net/raw/2gwqs5hsj2
 http://192.210.149.242/mac.txt
