@@ -3,6 +3,8 @@
 ################################################################
 #
 # URL
+https://drive.google.com/file/d/1RPmi8gjNtqSxDBUfLqtjWBaZyZyYjq_m/view?usp=3Ddrive_web
+https://textbin.net/raw/2gwqs5hsj2
 http://192.210.149.242/mac.txt
 http://192.210.149.242/edi.vbs
 http://192.210.149.242/nokey.txt
