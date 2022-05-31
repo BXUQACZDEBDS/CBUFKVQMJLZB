@@ -3,6 +3,8 @@
 ################################################################
 #
 # URL
+http://zeegod.duckdns.org/Vre
+http://dilshadkhan.duia.ro/Vre
 http://gotovacoil.com/cname/Protected%20Client.vbs
 http://gotovacoil.com/cname/attack.txt
 http://gotovacoil.com/cname/Encrypted%20Client%20OG.jpg
