@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+donlin.dvrlists.com
 judyhus19.dvrlists.com
 SQL8003.site4now.net
 textbin.net
