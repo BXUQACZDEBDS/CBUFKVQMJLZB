@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+setecgt.com
 man1mojokerto.xyz
 smarthinking.pe
 donlin.dvrlists.com
