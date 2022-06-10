@@ -3,6 +3,9 @@
 ################################################################
 #
 # DNS
+boucherie-thollas.com
+keurigonline52.nl
+supersanmutfak.com
 elbacolleparadiso.it
 panamel.com
 papillonweb.fr
