@@ -3,6 +3,9 @@
 ################################################################
 #
 # URL
+http://107.172.100.226/hi3.vbs
+http://107.172.100.226/hi2.txt
+http://107.172.100.226/hi.jpg
 http://www.hsperu.pe/intranet_old/enwUUh7bZ5oyVB/
 http://www.aseguradosaldia.com/wp-content/fKD7pFlruL4/
 http://windsystem.hu/cgi-bin/bqAvE44wqXSBGRhyQy/
