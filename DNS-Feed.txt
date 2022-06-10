@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+judyhus19.dvrlists.com
 aseguradosaldia.com
 biathlon-sachsen.de
 hsperu.pe
