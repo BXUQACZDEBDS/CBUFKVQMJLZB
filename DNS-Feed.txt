@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+remittance5443.dvrlists.com
 hathaabeach.com
 meta4media.com
 natayakim.com
