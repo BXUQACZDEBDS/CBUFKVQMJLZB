@@ -3,6 +3,9 @@
 ################################################################
 #
 # DNS
+hathaabeach.com
+meta4media.com
+natayakim.com
 fyambe.news
 lightmyfire.in
 nationco-op.org
