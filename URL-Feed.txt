@@ -3,6 +3,9 @@
 ################################################################
 #
 # URL
+http://185.80.92.143:8998/update.html
+http://185.80.92.143:8998/2.txt
+https://87.236.161.43/i
 https://wpbizwon.com/FexOL2Wx00ooCfpgOw/
 http://watersgroupglobal.com/cgi-bin/hwCu/
 http://web4nothing.com/cgi-bin/LAXoaAufu/
