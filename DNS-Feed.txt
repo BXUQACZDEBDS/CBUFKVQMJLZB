@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+telemetrysystemcollection.com
+collectiontelemetrysystem.com
 beeslandkerman.ir
 bsbmakina.com.tr
 buddymorel.com
