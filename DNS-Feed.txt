@@ -3,6 +3,12 @@
 ################################################################
 #
 # DNS
+awam.be
+balcaodasmarcas.com
+fundacioncedes.org
+mulmatdol.com
+wijsneusmedia.nl
+zenprod.com
 Zk.Qa
 5qW.pW
 lwIP.rE
