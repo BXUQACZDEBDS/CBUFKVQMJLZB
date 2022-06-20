@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+swisspower-com.mindcypress.com
 telemetrysystemcollection.com
 collectiontelemetrysystem.com
 beeslandkerman.ir
