@@ -3,6 +3,9 @@
 ################################################################
 #
 # URL
+http://194.5.97.7/is-ready
+http://franmhort.duia.ro/Vre
+http://91.192.100.8
 http://180.214.236.4/spaceX/vbc.exe
 http://www.sanipass-solutions.fr/wp-admin/zr/loader/uploads/
 http://www.sanipass-solutions.fr/wp-admin/zr/loader/uploads/MT0678813_Fisxtqzo.bmp
