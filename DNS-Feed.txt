@@ -3,6 +3,9 @@
 ################################################################
 #
 # DNS
+kitten-268.frge.io
+frge.io
+kompartpomiar.pl
 swisspower-com.mindcypress.com
 telemetrysystemcollection.com
 collectiontelemetrysystem.com
