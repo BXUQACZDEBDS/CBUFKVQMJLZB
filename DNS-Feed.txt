@@ -3,6 +3,10 @@
 ################################################################
 #
 # DNS
+baidenfree.com
+golgba.com
+domtern.com
+jorgava.com
 kitten-268.frge.io
 frge.io
 kompartpomiar.pl
