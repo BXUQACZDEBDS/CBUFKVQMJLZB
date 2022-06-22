@@ -3,6 +3,8 @@
 ################################################################
 #
 # URL
+http://www.sanipass-solutions.fr/wp-admin/zr/loader/uploads/
+http://www.sanipass-solutions.fr/wp-admin/zr/loader/uploads/MT0678813_Fisxtqzo.bmp
 http://64.190.113.51:8000/index.html
 http://5.199.173.152/ked.dll
 https://baidenfree.com/jquery-3.3.1.min.js
