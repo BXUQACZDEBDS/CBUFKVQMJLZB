@@ -3,6 +3,9 @@
 ################################################################
 #
 # DNS
+vpn2.smi1egate.com
+svn1.smi1egate.com
+giga.gnisoft.com
 campusconindigital.org
 digitalkhulna.com
 dnahealth.gr
