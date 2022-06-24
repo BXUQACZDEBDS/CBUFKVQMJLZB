@@ -3,6 +3,10 @@
 ################################################################
 #
 # URL
+http://104.223.34.198/111.php
+http://104.223.34.198/1dll.php
+http://104.223.34.198/syn.php
+http://104.223.34.198/p.txt
 https://www.digitalkhulna.com/wp-admin/L2z2e/
 https://www.dnahealth.gr/wp-content/QkkKMaLwy4jURh6FD/
 http://www.campusconindigital.org/moodle_old/9giglHrg2t/
