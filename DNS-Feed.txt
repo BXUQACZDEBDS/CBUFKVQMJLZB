@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+mesh.floppasoftware.com
 vpn2.smi1egate.com
 svn1.smi1egate.com
 giga.gnisoft.com
