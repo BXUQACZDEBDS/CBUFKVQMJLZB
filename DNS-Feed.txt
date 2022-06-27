@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+star-cz.ddns.net
 mesh.floppasoftware.com
 vpn2.smi1egate.com
 svn1.smi1egate.com
