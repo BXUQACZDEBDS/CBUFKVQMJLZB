@@ -3,6 +3,9 @@
 ################################################################
 #
 # URL
+http://plexbd.net/MSCommonDriver.exe
+http://plexbd.net/MSCommondll.exe
+https://datagroup.ddns.net/PythonHttpGeolongpolldefault.php
 http://23.29.125.210/otherUse.dat
 http://collabsolutions.co.za/libraries/qn8LLQ66K/
 http://comecebem.com/wp-admin/WvCd0OfZD/
