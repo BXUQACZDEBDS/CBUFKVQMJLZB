@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+secureyourdataarea1.duckdns.org
 blackwealth001.duckdns.org
 contabilidadeplenus.com.br
 dploy.nl
