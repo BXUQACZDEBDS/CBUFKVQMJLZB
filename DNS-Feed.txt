@@ -3,6 +3,14 @@
 ################################################################
 #
 # DNS
+contabilidadeplenus.com.br
+dploy.nl
+greenvalleyschool.co
+kairaliagencies.com
+m-ainsurance.com
+nlasandbox.com
+starluckycentre.com
+thegoodneighbourapp.com
 star-cz.ddns.net
 mesh.floppasoftware.com
 vpn2.smi1egate.com
