@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+upportteam.lingrevelat.com
+lingrevelat.com
 plexbd.net
 datagroup.ddns.net
 secureyourdataarea1.duckdns.org
