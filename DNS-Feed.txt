@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+blackwealth001.duckdns.org
 contabilidadeplenus.com.br
 dploy.nl
 greenvalleyschool.co
