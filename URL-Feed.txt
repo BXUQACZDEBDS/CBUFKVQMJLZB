@@ -3,6 +3,8 @@
 ################################################################
 #
 # URL
+http://20.51.227.181/svchost.exe
+http://20.51.227.181/layout20223acb.dotm
 http://104.168.32.43/244/vbc.exe
 http://198.46.132.217/bb/ekene.exe
 https://url.pm/VrpAB
