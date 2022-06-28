@@ -3,6 +3,8 @@
 ################################################################
 #
 # URL
+https://upportteam.lingrevelat.com/update/v32/default
+https://upportteam.lingrevelat.com
 http://plexbd.net/MSCommonDriver.exe
 http://plexbd.net/MSCommondll.exe
 https://datagroup.ddns.net/PythonHttpGeolongpolldefault.php
