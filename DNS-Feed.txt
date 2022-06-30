@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+2dod.ddns.net
 upportteam.lingrevelat.com
 lingrevelat.com
 plexbd.net
