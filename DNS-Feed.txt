@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+ncscs.ch
 coolcraft.at
 corneliussen.dk
 cosole.dk
