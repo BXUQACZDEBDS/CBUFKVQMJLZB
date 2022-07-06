@@ -3,6 +3,14 @@
 ################################################################
 #
 # DNS
+aacl.co.in
+balibuli.hu
+baykusoglu.com.tr
+napolni.me
+sigratech.de
+tlaxcala.gob.mx
+webbandi.hu
+zonainformatica.es
 forensisbilisim.com
 fullwiz.com.br
 fundaciontheoz.cl
