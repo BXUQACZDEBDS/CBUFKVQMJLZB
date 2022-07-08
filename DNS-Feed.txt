@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+saptransmissions.dvrlists.com
 bitrat9300.duckdns.org
 t1.hinitial.com
 v2.hinitial.com
