@@ -3,6 +3,15 @@
 ################################################################
 #
 # DNS
+t1.hinitial.com
+v2.hinitial.com
+v3.hinitial.com
+v4.hinitial.com
+v5.hinitial.com
+hinitial.com
+df.micfkbeljacob.com
+jack.micfkbeljacob.com
+micfkbeljacob.com
 aacl.co.in
 balibuli.hu
 baykusoglu.com.tr
