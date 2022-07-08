@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+bitrat9300.duckdns.org
 t1.hinitial.com
 v2.hinitial.com
 v3.hinitial.com
