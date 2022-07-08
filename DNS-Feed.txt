@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+menz.ddns.net
 saptransmissions.dvrlists.com
 bitrat9300.duckdns.org
 t1.hinitial.com
