@@ -3,6 +3,11 @@
 ################################################################
 #
 # URL
+http://23.95.85.179/AribaNetwork/pmtinformation.txt
+http://geoplugin.net/json.gp
+http://23.95.85.179/Ariba/Schedule.jpg
+http://23.95.85.179/AribaNetwork/pmtinformation.txt
+http://23.95.85.179/Announcements/CFO.vbs
 https://sazossi-s-school.thinkific.com/
 http://zonainformatica.es/aspnet_client/n0ULlfoAHHQh9tagckL/
 https://napolni.me/3r/ILq7TqCUS/
