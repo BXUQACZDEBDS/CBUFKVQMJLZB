@@ -3,6 +3,9 @@
 ################################################################
 #
 # URL
+http://solutionias.com/bin/d1.jpg
+http://solutionias.com/bin/d2.jpg
+https://solutionias.com/bin/g.vbs
 http://23.95.85.179/AribaNetwork/pmtinformation.txt
 http://geoplugin.net/json.gp
 http://23.95.85.179/Ariba/Schedule.jpg
