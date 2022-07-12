@@ -3,6 +3,24 @@
 ################################################################
 #
 # URL
+http://168.100.8.42/cr.exe
+http://66.150.66.167/su.dll
+http://66.150.66.167/asm1.dll
+http://168.100.8.42/micro.exe
+http://168.100.8.42/spisok.exe
+http://168.100.8.42/list.exe
+http://138.68.229.0/pe.dll
+http://193.149.176.172/atachment.exe
+http://64.190.113.51:8000/
+http://5.199.173.152/ked.dll
+https://baidenfree.com/jquery-3.3.1.min.js
+https://farenge.com/jquery-3.3.1.min.js
+https://lviv.uz.ua/Nuclear.xls
+http://138.68.229.0/pe.dll
+https://dezword.com:443/apiv8/getStatus
+http://66.150.66.167/su.dll
+http://66.150.66.167/asm1.dll
+http://168.100.8.42/cr.exe
 http://136.144.41.177/s/Xnk75JwUcIebkrmENtufIiiKEmoqBN/field-keywords/
 http://136.144.41.177/nzXlLVas-VALvDh9lopkC/avp/amznussraps/
 http://solutionias.com/bin/d1.jpg
