@@ -3,6 +3,10 @@
 ################################################################
 #
 # DNS
+akdalarabic.com
+borntobefree.org.za
+eryaz.net
+greenlizard.co.za
 skreatortemp.site
 menz.ddns.net
 saptransmissions.dvrlists.com
