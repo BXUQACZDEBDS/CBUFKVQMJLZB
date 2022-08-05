@@ -3,6 +3,14 @@
 ################################################################
 #
 # DNS
+a0695487.xsph.ru
+a0698262.xsph.ru
+a0698649.xsph.ru
+fishitor.ru
+leonardis.ru
+mail-box.site
+fast-mail.site
+your-mail.press
 akdalarabic.com
 borntobefree.org.za
 eryaz.net
