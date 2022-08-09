@@ -3,6 +3,9 @@
 ################################################################
 #
 # URL
+http://66.154.103.196/fisc.vbs
+http://66.154.103.196/fna.txt
+http://66.154.103.196/fn.jpg
 https://4hmn.short.gy/NzyIIk
 https://sundhalsa.com/
 https://scholanderdesign.com/
