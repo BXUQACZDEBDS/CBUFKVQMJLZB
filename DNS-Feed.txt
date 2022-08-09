@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+topboysully.dvrlists.com
 tritehairs.com
 backupjuly20222.ddns.net
 backupjuly2022.ddns.net
