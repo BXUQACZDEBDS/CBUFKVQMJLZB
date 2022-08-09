@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+cansugperpetu.com
 topboysully.dvrlists.com
 tritehairs.com
 backupjuly20222.ddns.net
