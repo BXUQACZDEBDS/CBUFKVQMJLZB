@@ -3,6 +3,9 @@
 ################################################################
 #
 # DNS
+minano.saitama.jp
+shinanomachi.nagano.jp
+brewsterchristophe.ddns.net
 garbagewellduno.com
 alldogsedag.com
 a0695487.xsph.ru
