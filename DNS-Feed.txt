@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+explorblins.com
 minano.saitama.jp
 shinanomachi.nagano.jp
 brewsterchristophe.ddns.net
