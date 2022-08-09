@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+backupjuly20222.ddns.net
+backupjuly2022.ddns.net
 dnuocc.com
 brewsterchristophe.ddns.net
 explorblins.com
