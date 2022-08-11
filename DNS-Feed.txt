@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+eter103.dvrlists.com
 cansugperpetu.com
 topboysully.dvrlists.com
 tritehairs.com
