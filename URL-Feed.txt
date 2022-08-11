@@ -3,6 +3,7 @@
 ################################################################
 #
 # URL
+http://192.3.194.246/ecst.exe
 https://1fbb.telegram.godsmightywhispers.com/updateResource
 https://predator.foxscalesjewelry.com/report?r=Y2lkPTI2MyZ2PTRlYjk3YWU3MWI3NjZhYjEyMWU0
 https://predator.foxscalesjewelry.com/report?r=dj03MDgyZTc5ZmNhN2EwY2M2YjA3NCZjaWQ9MjYz
