@@ -3,6 +3,9 @@
 ################################################################
 #
 # URL
+https://4a3d.telegram.godsmightywhispers.com/updateResource
+https://casting.faeryfox.com/report?cid=262&svh=j7oczcp7t5zdv6vcg3z6y0w4h8m5j7i3x5t0i5b3p
+https://casting.faeryfox.com/report?r=dj1iNjI0OWFiNTViODVhMDIxZmRjZCZjaWQ9MjYy
 https://d26f.fallout.flunkypixels.com/updateResource
 https://vacation.thebrightgift.com/report?cid=263&v=4eb97ae71b766ab121e4
 https://vacation.thebrightgift.com/report?r=dj03MDgyZTc5ZmNhN2EwY2M2YjA3NCZjaWQ9MjYz
