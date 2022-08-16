@@ -3,6 +3,12 @@
 ################################################################
 #
 # DNS
+leonardis.ru
+heato.ru
+motoristo.ru
+pasamart.ru
+a0698649.xsph.ru
+destroy.asierdo.ru
 eter103.dvrlists.com
 cansugperpetu.com
 topboysully.dvrlists.com
