@@ -3,6 +3,9 @@
 ################################################################
 #
 # URL
+http://66.154.103.196/vin.jpg
+http://66.154.103.196/diesel.txt
+http://66.154.103.196/frost.vbs
 https://dnslookup.seowebchecker.com/
 https://ip-api.com/csv/
 https://tools.nexcess.net/dns-check
