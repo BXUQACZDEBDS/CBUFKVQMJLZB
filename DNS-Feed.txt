@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+topboysully.dvrlists.com
 moolin.ru
 atlantar.ru
 bubenci.ru
