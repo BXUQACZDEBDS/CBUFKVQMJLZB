@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+durdyq.db.files.1drv.com
 Darwin06.casacam.net
 leaflet308.casacam.net
 nunez115.accesscam.org
