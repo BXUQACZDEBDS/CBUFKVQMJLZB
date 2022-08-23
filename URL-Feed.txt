@@ -3,6 +3,9 @@
 ################################################################
 #
 # URL
+http://209.127.20.13/kiss.jpg
+http://209.127.20.13/kim.txt
+http://209.127.20.13/sinus.vbs
 https://ead6.templates.victoryoverdieting.com/updateResource
 https://predator.foxscalesjewelry.com/report?r=Y2lkPTI2MyZ2PTRlYjk3YWU3MWI3NjZhYjEyMWU0
 https://predator.foxscalesjewelry.com/report?r=dj03MDgyZTc5ZmNhN2EwY2M2YjA3NCZjaWQ9MjYz
