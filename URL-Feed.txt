@@ -3,6 +3,11 @@
 ################################################################
 #
 # URL
+http://66.42.103.163/fakeurl.htm
+http://66.42.103.163/location/loca.asp
+http://dygb.pl/ef
+https://drive.google.com/uc?id=1IHKmFN25youX7MlV1OMUoocIZtkIHiDP&export=download
+https://drive.google.com/uc?id=1BlLPKkmFIv577UEQvlsGmoApDdI4k-Kb&export=download	
 https://0f2b.templates.victoryoverdieting.com/updateResource
 https://predator.foxscalesjewelry.com/report?r=Y2lkPTI2MyZ2PTRlYjk3YWU3MWI3NjZhYjEyMWU0
 https://predator.foxscalesjewelry.com/report?r=dj03MDgyZTc5ZmNhN2EwY2M2YjA3NCZjaWQ9MjYz
