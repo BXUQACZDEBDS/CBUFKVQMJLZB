@@ -3,6 +3,9 @@
 ################################################################
 #
 # URL
+http://209.127.20.13/jut.jpg
+http://209.127.20.13/jutac.txt
+http://209.127.20.13/hwid.vbs
 http://66.42.103.163/fakeurl.htm
 http://66.42.103.163/location/loca.asp
 http://dygb.pl/ef
