@@ -3,6 +3,9 @@
 ################################################################
 #
 # URL
+http://209.127.20.13/clb.jpg
+http://209.127.20.13/how.txt
+http://209.127.20.13/calc.vbs
 POST http://23.88.96.2/fakeurl.htm
 http://fyef.fun/b
 https://doc-10-40-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/v613rnkjoj2oisubk1naf8890lbj8as2/1660683075000/05692980731673961117/*/1se7dU_EtOrOGfBGMN6QRsT3221VAO9G4?e=download&uuid=6c3df970-e5b5-4b25-8f27-2fb9c6a554b8
