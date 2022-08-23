@@ -3,6 +3,13 @@
 ################################################################
 #
 # URL
+http://geo.netsupportsoftware.com/location/loca.asp
+http://78.47.32.144/fakeurl.htm
+http://ygvw.pl/r
+https://doc-08-4s-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/6mpvcqce532al4m0tftilau9se1ej236/1660942575000/07187571288918650917/*/1EtLOa0SKZqa0M0bg6vn904GtEPU07Z5z?e=download&uuid=e67d364b-3e3f-42d5-b2a2-199d9e7aa107
+https://doc-0g-4s-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/i5fos7snh62v5mokcp0msvjh38td8m04/1660942575000/07187571288918650917/*/1QcxzI3MSFv6JXZqZfunxvO0LhqXEfRc2?e=download&uuid=4dd31c8e-a86b-45e0-bd1d-985972ab3b0f
+https://drive.google.com/uc?id=1QcxzI3MSFv6JXZqZfunxvO0LhqXEfRc2&export=download
+https://drive.google.com/uc?id=1EtLOa0SKZqa0M0bg6vn904GtEPU07Z5z&export=download
 https://73a2.templates.victoryoverdieting.com/updateResource
 https://predator.foxscalesjewelry.com/report?r=Y2lkPTI2MyZ2PTRlYjk3YWU3MWI3NjZhYjEyMWU0
 https://predator.foxscalesjewelry.com/report?r=dj03MDgyZTc5ZmNhN2EwY2M2YjA3NCZjaWQ9MjYz
