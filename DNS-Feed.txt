@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+patronkingoopsalmghandnaiojamexicoquadaras.s3.sa-east-1.amazonaws.com
 durdyq.db.files.1drv.com
 Darwin06.casacam.net
 leaflet308.casacam.net
