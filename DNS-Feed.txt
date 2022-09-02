@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+mandingo.dvrlists.com
 bitm.dvrlists.com
 kashbilly.duckdns.org
 asdjdoo3vsd.icu
