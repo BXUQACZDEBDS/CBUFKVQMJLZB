@@ -3,6 +3,9 @@
 ################################################################
 #
 # URL
+http://209.127.20.13/fiddy.jpg
+http://209.127.20.13/fif.txt
+https://kopadd.yunethosting.rs/sync/gith.vbs
 http://blazzerneumi.com/
 http://209.127.20.13/remit.jpg
 http://209.127.20.13/firm.txt
