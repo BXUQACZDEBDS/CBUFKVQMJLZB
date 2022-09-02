@@ -3,6 +3,9 @@
 ################################################################
 #
 # DNS
+amalar.camdvr.org
+stopeet.camdvr.org
+prosir.casacam.net
 mandingo.dvrlists.com
 bitm.dvrlists.com
 kashbilly.duckdns.org
