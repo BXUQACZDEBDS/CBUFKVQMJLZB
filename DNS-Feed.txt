@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+bitm.dvrlists.com
 kashbilly.duckdns.org
 asdjdoo3vsd.icu
 patronkingoopsalmghandnaiojamexicoquadaras.s3.sa-east-1.amazonaws.com
