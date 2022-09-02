@@ -3,6 +3,9 @@
 ################################################################
 #
 # URL
+http://209.127.20.13/remit.jpg
+http://209.127.20.13/firm.txt
+https://kopadd.yunethosting.rs/sync/gith.vbs
 http://mckinneytighe.com/newmon/Encrypted%20Client%20OG.jpg
 http://mckinneytighe.com/newmon/attack.txt
 http://mckinneytighe.com/newmon/calc/Client.vbs
