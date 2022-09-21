@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+s-1qg.pages.dev
 account.adfs.kyivstar.online
 adfs.kyivstar.online
 darkett.ddns.net
