@@ -3,6 +3,25 @@
 ################################################################
 #
 # DNS
+account.adfs.kyivstar.online
+adfs.kyivstar.online
+darkett.ddns.net
+darkfox.ddns.net
+darksea.ddns.net
+datagroup.ddns.net
+ett.ddns.net
+ett.hopto.org
+kievstar.online
+kyiv-star.ddns.net
+kyivstar.online
+login.adfs.kyivstar.online
+login.kyivstar.online
+outlook.adfs.kyivstar.online
+star-cz.ddns.net
+star-link.ddns.net
+www.kyivstar.online
+yugyuvyugguitgyuigtfyutdtoghghbbgyv.cx
+zpltcmgodhvvedxtfcygvbgjkvgvcguygytfigj.cc
 newehmpage.webredirect.org
 007-service-ua.site
 1-helpukrainejews.faireee.com
