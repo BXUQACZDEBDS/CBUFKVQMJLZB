@@ -3,6 +3,9 @@
 ################################################################
 #
 # URL
+http://209.127.20.13/boo.jpg
+http://209.127.20.13/boop.txt
+http://209.127.20.13/jubile.js
 http://geoplugin.net/json.gp
 http://209.127.20.13/ade.jpg
 http://209.127.20.13/adec.txt
