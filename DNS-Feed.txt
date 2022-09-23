@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+digital-apps.id
+icardiaca.com
 topboysully.dvrlists.com
 ekuberr.com
 freedombusinessclub.com
