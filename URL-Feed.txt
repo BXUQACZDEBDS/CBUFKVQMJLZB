@@ -3,6 +3,10 @@
 ################################################################
 #
 # URL
+http://geoplugin.net/json.gp
+http://209.127.20.13/ade.jpg
+http://209.127.20.13/adec.txt
+http://209.127.20.13/jubile.js
 https://ekuberr.com/asor/nmsaCedasmuu2170972107.zip
 https://freedombusinessclub.com/ipte/nmsaCedasmuu2170972107.zip
 https://globalworkplacewellnesssummit.com/tso/nmsaCedasmuu2170972107.zip
