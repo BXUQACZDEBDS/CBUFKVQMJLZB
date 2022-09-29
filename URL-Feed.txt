@@ -3,6 +3,7 @@
 ################################################################
 #
 # URL
+http://206.188.196.77:8080/themes.aspx
 https://lugkm.pages.dev
 https://1drv.ms/u/s!AlFva5G7QPeRtHwAshqBI3GUM-2A?e=QKfU18
 http://67.205.182.129/u2/upload.php
