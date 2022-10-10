@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+installads.net
 u29294702.ct.sendgrid.net
 digital-apps.id
 icardiaca.com
