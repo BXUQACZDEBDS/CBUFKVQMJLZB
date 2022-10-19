@@ -2,7 +2,9 @@
 # DNS Blacklist                                                #
 ################################################################
 #
-# DNS
+# 
+gunbj.top
+fyvbsw.top
 installads.net
 u29294702.ct.sendgrid.net
 digital-apps.id
