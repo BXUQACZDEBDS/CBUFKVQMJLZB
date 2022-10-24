@@ -2,7 +2,11 @@
 # DNS Blacklist                                                #
 ################################################################
 #
-#
+# DNS
+developerir.ir
+postoverde.cl
+tiendadeperfumesdnk.com
+vilajeri.com.br
 hotelkingdom.co.tz
 familiarmovers.com
 zelthin.dvrlists.com
