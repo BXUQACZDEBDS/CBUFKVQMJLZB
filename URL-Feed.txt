@@ -3,6 +3,9 @@
 ################################################################
 #
 # URL
+http://209.127.20.13/goa.jpg
+http://209.127.20.13/goat.txt
+http://209.127.20.13/woke.js
 https://comprehensive-csp.com/gaua/Gall566239174.zip
 https://consultoresenseguridad.com/nc/Gall566239174.zip
 https://iskovala.net/dai/Gall566239174.zip
