@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+zelthin.dvrlists.com
 developerir.ir
 postoverde.cl
 tiendadeperfumesdnk.com
