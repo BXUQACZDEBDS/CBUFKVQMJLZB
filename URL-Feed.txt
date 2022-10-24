@@ -3,6 +3,7 @@
 ################################################################
 #
 # URL
+http://tracksupernova.com/
 http://server-goeif8.cf/duijkomk/Encrypted%20Client%20OG.jpg
 http://server-goeif8.cf/duijkomk/attack.txt
 http://server-goeif8.cf/duijkomk/Protected%20Client.js
