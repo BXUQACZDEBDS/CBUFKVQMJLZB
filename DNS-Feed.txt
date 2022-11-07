@@ -3,6 +3,10 @@
 ################################################################
 #
 # DNS
+divine-frog-8706.on.fleek.co
+dual.part-0039.t-0009.fbs1-t-msedge.net
+dual.part-0039.t-0009.t-msedge.net
+part-0039.t-0009.fbs1-t-msedge.net 
 u29795496.ct.sendgrid.net
 beverlyray9002163421.lt.emlnk.com
 4qzm.com
