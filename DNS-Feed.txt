@@ -3,6 +3,10 @@
 ################################################################
 #
 # DNS
+audioselec.com
+geringer-muehle.de
+intolove.co.uk
+isc.net.ua
 hubvapes.com
 lifecode.net.br
 minecraft.ro
