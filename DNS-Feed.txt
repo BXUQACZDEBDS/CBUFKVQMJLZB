@@ -3,6 +3,11 @@
 ################################################################
 #
 # DNS
+ellenkicet.ac.in
+inform-imoveis.com.br
+steelbuild.co
+webytebr.com
+yallaatrip.com
 divine-frog-8706.on.fleek.co
 dual.part-0039.t-0009.fbs1-t-msedge.net
 dual.part-0039.t-0009.t-msedge.net
