@@ -3,6 +3,9 @@
 ################################################################
 #
 # URL
+http://176.124.216.159/fakeurl.htm
+https://www.itraf.org/wp-content/themes/CLF_security.iso
+https://sbbmanagement.com/
 http://steelbuild.co/nipi/Copy468.zip
 http://webytebr.com/etsd/Copy468.zip
 https://ellenkicet.ac.in/iq/Copy468.zip
