@@ -3,6 +3,12 @@
 ################################################################
 #
 # DNS
+lovableduck.ru
+ilovetheducks.ru
+quackquack.ru
+smallduck.ru
+Ducklogs.com
+# 07.12.2022
 stalioonlla.com
 baidwin-paving.com
 ababiil.com
