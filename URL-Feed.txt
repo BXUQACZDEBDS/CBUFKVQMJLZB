@@ -3,6 +3,11 @@
 ################################################################
 #
 # URL
+https://delta.mil.gov.ua.delta-storages.com/certificates/update
+https://delta.mil.gov.ua.delta-storages.com/certificates/windows/certificates_rootca.zip
+https://46.249.49.109
+https://hexactor.com
+ftp://46.249.49.109
 https://t.me/s/chabgei
 https://t.me/s/chanellsac
 https://t.me/s/chanelwer
