@@ -3,6 +3,9 @@
 ################################################################
 #
 # DNS
+brancoperu.com
+davidkujawa.com
+dynapowerusa.com
 abcflores.cl
 adolphochs.com
 aiimtvns.com
