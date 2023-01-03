@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+maklis.com.mx
+rxp.com
 al-raed.ps
 cataclysm.pe
 culmenodontologia.cl
