@@ -3,6 +3,9 @@
 ################################################################
 #
 # DNS
+delta.mil.gov.ua.delta-storages.com
+delta-storages.com
+hexactor.com
 a0662337.xsph.ru
 a0671808.xsph.ru
 a0693131.xsph.ru
