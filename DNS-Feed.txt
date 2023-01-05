@@ -3332,7 +3332,7 @@ aaa.archlinuxo.ru
 aaa.centosi.ru
 aaa.cupsman.ru
 aaa.koparas.ru
-aaa.loralis.ru aaa.koparas.ru
+aaa.loralis.ru
 aaa.pitroksa.ru
 aaa.ubunto.ru
 abnewslive.in
@@ -3353,7 +3353,7 @@ amplamaisbeneficios.com.br
 andredalcarobo.com.br
 appdosindicato.com.br
 aquadec.com.au
-archlinuxo[ru
+archlinuxo.ru
 ardentsport.com
 arkidecture.com
 armandotechnology.com.br
@@ -3462,7 +3462,8 @@ leoedelucca.com.br
 linuxo.ru
 ln-upl.ddns.net
 lnk-upload.dodortar.ru
-loralis.ru pitroksa.ru
+loralis.ru
+pitroksa.ru
 m-vz.webhop.me
 medequipargos.com
 mediavpn.co.uk
