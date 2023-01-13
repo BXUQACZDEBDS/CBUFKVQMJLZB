@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+kapuchi-ltd.myshopify.com
+##### 13.01.2023
 delta.mil.gov.ua.delta-storages.com
 delta-storages.com
 hexactor.com
