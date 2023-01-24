@@ -3,6 +3,8 @@
 ################################################################
 #
 # URL
+https://kapuchiltd.myshopify.com/
+#####24.01.2023
 https://amazon.lbb.de/security/login
 https://www.mrcoconut.in/webroot/img/icon/login/index.php
 ##### 17.01.2023
