@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+manage.kmail-lists.com
 oscar-itd.myshopify.com
 ##### 30.01.2023
 kapuchiltd.myshopify.com
