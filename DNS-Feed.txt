@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+oscar-itd.myshopify.com
+##### 30.01.2023
 kapuchiltd.myshopify.com
 ##### 24.01.2023
 amazon.lbb.de
