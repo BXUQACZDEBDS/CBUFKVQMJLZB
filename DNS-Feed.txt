@@ -3,8 +3,6 @@
 ################################################################
 #
 # DNS
-sendgrid.net
-u32039623.ct.sendgrid.net
 arweave.net
 ##### 01.02.2023
 marketingtechnologies.es
