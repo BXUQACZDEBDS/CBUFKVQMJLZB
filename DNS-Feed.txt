@@ -3,6 +3,12 @@
 ################################################################
 #
 # DNS
+ghcc.duckdns.org
+plax.duckdns.org
+newtryex.ddns.net
+su1d.nerdpol.ovh
+winery.nsupdate.info
+newtryex.ddns.net
 woocommerce-931922-3235144.cloudwaysapps.com
 kunden-auth8545210hostechchrenew.hessehour.de
 arweave.net
