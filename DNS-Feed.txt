@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+arweave.net
+##### 01.02.2023
 marketingtechnologies.es
 ##### 31.01.2023
 manage.kmail-lists.com
