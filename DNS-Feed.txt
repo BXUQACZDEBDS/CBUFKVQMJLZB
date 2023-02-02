@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+www.bigeasyrollerderby.com
+##### 02.02.2023
 ghcc.duckdns.org
 plax.duckdns.org
 newtryex.ddns.net
