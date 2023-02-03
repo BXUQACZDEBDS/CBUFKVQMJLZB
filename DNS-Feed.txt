@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+somonoo.com
 safetyfold.com
 ##### 03.02.2023
 www.bigeasyrollerderby.com
