@@ -3,6 +3,8 @@
 ################################################################
 #
 # URL
+http://185.231.205.246/36564.dat
+http://87.236.146.112/62865.dat
 https://unitedmedicalspecialties.com/T1Gpp/OI.png
 http://restlomik.com/gatef.php
 http://49.50.84.121/50007.dat
