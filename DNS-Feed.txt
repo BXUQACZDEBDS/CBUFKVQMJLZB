@@ -3,6 +3,12 @@
 ################################################################
 #
 # DNS
+quasharr.ddns.net
+quasharr21.ddns.net
+quasharr22.ddns.net
+quasharr33.ddns.net
+api4.ipify.org
+quasharr.ddns.net
 newtryex.ddns.net
 c536e.asset.tradingvein.xyz
 ##### 13.02.2023
