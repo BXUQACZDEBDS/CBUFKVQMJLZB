@@ -3,6 +3,8 @@
 ################################################################
 #
 # URL
+https://www.onenotegem.com/uploads/soft/one-templates/stg-a4l.one
+https://transfer.sh/get/p5lj4U/invoice.bat
 https://cdn.discordapp.com/attachments/1059184089866969141/1064172778871341087/RufusSetup-win64-32.zip
 https://rufus-en.pitch-i.com/?gclid=EAIaIQobChMIyb_8ktfR_AIVY_bjBx0W5QrJEAMYASAAEgKk9PD_BwE
 https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjJv_yS19H8AhVj9uMHHRblCskYABAAGgJ5bQ&ohost=www.google.com&cid=CAASJeRoULafGFhuHF-9SPqibmPiGQ1aK1-ri2DDof_eTf3_zIyGiAs&sig=AOD64_1VPqp4g6XmyXJoRhBG7SMOvpjtLg&q&adurl&ved=2ahUKEwig-vOS19H8AhU1kokEHdRqD8UQ0Qx6BAgIEAE
