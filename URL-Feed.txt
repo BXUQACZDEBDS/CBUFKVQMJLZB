@@ -765,7 +765,6 @@ https://icardiaca.com/ee/tpguroiorfa
 http://209.127.20.13/boo.jpg
 http://209.127.20.13/boop.txt
 http://209.127.20.13/jubile.js
-http://geoplugin.net/json.gp
 http://209.127.20.13/ade.jpg
 http://209.127.20.13/adec.txt
 http://209.127.20.13/jubile.js
@@ -1139,7 +1138,6 @@ http://solutionias.com/bin/d1.jpg
 http://solutionias.com/bin/d2.jpg
 https://solutionias.com/bin/g.vbs
 http://23.95.85.179/AribaNetwork/pmtinformation.txt
-http://geoplugin.net/json.gp
 http://23.95.85.179/Ariba/Schedule.jpg
 http://23.95.85.179/AribaNetwork/pmtinformation.txt
 http://23.95.85.179/Announcements/CFO.vbs
@@ -1298,7 +1296,6 @@ http://oncrete-egy.com/wp-content/G6l9zCsB/
 https://burgarellaquantumhealing.org/NRl0YMBGNh8i/
 https://faisonfilms.com/wp-includes/jOA/
 http://roviel.mx/wp-includes/uX2WDFhrE/
-http://geoplugin.net/json.gp
 http://gotovacoil.com/mangea/Encrypted%20Client%20OG.jpg
 http://gotovacoil.com/mangea/attack.txt
 http://gotovacoil.com/mangea/Protected%20Client.vbs
