@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+pinkswanclothing.com
+##### 26.02.2023
 isc901.com
 jangidmotors.com
 jkanordic.com
