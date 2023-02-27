@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+dhl.693696.make4sewe.club
+ncdfs.org
 iplogger.com
 pinkswanclothing.com
 ##### 27.02.2023
