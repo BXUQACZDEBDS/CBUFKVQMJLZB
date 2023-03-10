@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+xmwellgold.com
+##### 10.03.2023
 griffinschoolfoundation.org
 ##### 06.03.2023
 focused-wright.139-59-238-144.plesk.page
