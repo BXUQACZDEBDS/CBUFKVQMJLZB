@@ -3,6 +3,8 @@
 ################################################################
 #
 # URL
+http://ehonlionetodo.com/
+http://tempsolutionsde.com/images/1.gif
 http://195.133.40.128:333/img.png
 http://195.133.40.128:333/information.txt
 https://pishgamnet.ir/r/zvxIFRi
