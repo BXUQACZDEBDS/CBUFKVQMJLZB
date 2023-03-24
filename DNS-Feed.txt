@@ -3,6 +3,11 @@
 ################################################################
 #
 # DNS
+xework.com
+xegroups.com
+hivnd.com
+xework.com
+##### 24.02.2023
 quirky-murdock.62-210-219-71.plesk.page
 u7351105.ct.sendgrid.net
 ##### 22.03.2023
