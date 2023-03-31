@@ -3,6 +3,28 @@
 ################################################################
 #
 # DNS
+akamaicontainer.com
+akamaitechcloudservices.com
+azuredeploystore.com
+azureonlinecloud.com
+azureonlinestorage.com
+dunamistrd.com
+glcloudservice.com
+journalide.org
+msedgepackageinfo.com
+msstorageazure.com
+msstorageboxes.com
+officeaddons.com
+officestoragebox.com
+pbxcloudeservices.com
+pbxphonenetwork.com
+pbxsources.com
+qwepoi123098.com
+sbmsa.wiki
+sourceslabs.com
+visualstudiofactory.com
+zacharryblogs.com
+##### 31.03.2023
 ipfs.io
 ##### 28.03.2023
 letmaker.top
