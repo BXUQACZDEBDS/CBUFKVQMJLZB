@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+alnorflorist.com.au
+##### 16.04.2023
 akamaicontainer.com
 akamaitechcloudservices.com
 azuredeploystore.com
