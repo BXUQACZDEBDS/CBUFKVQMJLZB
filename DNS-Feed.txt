@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+c.s-microsoft.com
+##### 20.04.2023
 Pdfconverterpower.net
 Downpdfpwr.com
 searchpoweronline.com
