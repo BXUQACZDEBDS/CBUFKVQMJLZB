@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+email.mg.gopxexchange.net
+##### 30.04.2023
 email.mg.able.com.sg
 pepperzero.cc
 email.shop.inspiredelearning.com
