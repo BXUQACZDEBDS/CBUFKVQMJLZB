@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+email.languagetrainersdirect.com
+##### 02.05.2023
 email.mg.gopxexchange.net
 ##### 30.04.2023
 email.mg.able.com.sg
