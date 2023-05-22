@@ -3,6 +3,18 @@
 ################################################################
 #
 # URL
+https://rxt.score.symposiumhaiti.com/gotoCheckout
+https://scripts.asi.services/cX458IXVf9TcXk/nhNa+y0nWDAAY7JxpQFgRZT9/nUk=
+https://scripts.asi.services/updateassets/css.css
+https://scripts.asi.services/updateassets/logo/chrome.png
+https://scripts.asi.services/updateassets/img/chrome.jpg
+https://scripts.asi.services/updateassets/favicon/chrome.png
+https://scripts.asi.services/Zdbrq/j4qGrfOOkzuaaPyBR2REliJzO2kdIIuYAeEPXMQ629sElH8dH2ueZNoh0q
+https://www.goodcoresoft.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+https://www.goodcoresoft.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+https://www.goodcoresoft.com/wp-content/plugins/email-subscribers/lite/public/js/email-subscribers-public.js?ver=5.5.13
+https://www.goodcoresoft.com/wp-includes/js/wp-embed.min.js?ver=5.8.6
+https://www.goodcoresoft.com/services/product-development/
 http://94.130.187.192/fakeurl.htm
 http://pruvb.fun/rt.php?i=
 http://pruvb.fun/rt.php?i=185.213.80.148%3C%3EDESKTOP-7GPTOES
