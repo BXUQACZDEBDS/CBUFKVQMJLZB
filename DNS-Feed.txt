@@ -3,6 +3,9 @@
 ################################################################
 #
 # DNS
+promenadesfantomes.com
+roadtorace.es
+sonteq.co.ke
 bafybeigqxme3furvhem3kwdc2ifv57pwutklwd3qnefihmgprfq7o7sgre.ipfs.dweb.link
 ##### 22.05.2023
 microsoft-office.zip
