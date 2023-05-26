@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+curiousclock.s4-tastewp.com
 accuratoodontologia.com.br
 ##### 26.05.2023
 bl.searchpoweronline.com
