@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+upcloginchsecure.hopto.org
 upcccccdererechc-1420850.mybigcommerce.com
 t.groupon.it
 ijoxm.app.link
