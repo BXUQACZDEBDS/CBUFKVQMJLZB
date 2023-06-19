@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+xohd-zcmp.maillist-manage.eu
+##### 19.06.2023
 upcloginchsecure.hopto.org
 upcccccdererechc-1420850.mybigcommerce.com
 t.groupon.it
