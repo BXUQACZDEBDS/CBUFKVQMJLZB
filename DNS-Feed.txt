@@ -3,6 +3,9 @@
 ################################################################
 #
 # DNS
+lukacadez.com
+d.adroll.com
+##### 26.06.2023
 martinlevicoy.com
 bninfravision.com
 cuartemotor.com
