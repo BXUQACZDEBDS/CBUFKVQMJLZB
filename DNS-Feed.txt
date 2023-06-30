@@ -3,6 +3,9 @@
 ################################################################
 #
 # DNS
+cloudflare-ipfs.com
+just4fun.nu
+##### 30.06.2023
 autopilotmillionaersystem.elisou.com
 ##### 28.06.2023
 lukacadez.com
