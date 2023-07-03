@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+saniterica.ca
 swiss-post-manage-support-account-payment-manage.eastus.cloudapp.azure.com
 bg-ref-francece-uuy4839.switzerlandnorth.cloudapp.azure.com
 ##### 03.07.2023
