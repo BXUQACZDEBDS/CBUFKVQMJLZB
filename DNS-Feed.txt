@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+bg-ref-francece-uuy4839.switzerlandnorth.cloudapp.azure.com
+##### 03.07.2023
 cloudflare-ipfs.com
 just4fun.nu
 ##### 30.06.2023
