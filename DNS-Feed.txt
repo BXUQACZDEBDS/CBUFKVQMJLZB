@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+bnic-zcmp.maillist-manage.eu
 cedn-zcmp.maillist-manage.eu
 roho.com.bo
 ##### 05-07-2023
