@@ -3,6 +3,11 @@
 ################################################################
 #
 # DNS
+funerallots.com
+www.generalsistem.ro
+ogrs-zcmp.maillist-manage.eu
+sw-app-366c5.firebaseapp.com
+##### 17.07.2023
 bnic-zcmp.maillist-manage.eu
 cedn-zcmp.maillist-manage.eu
 roho.com.bo
