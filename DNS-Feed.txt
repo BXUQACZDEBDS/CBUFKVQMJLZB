@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+pospochta.ru
+##### 04.08.2023
 funerallots.com
 www.generalsistem.ro
 ogrs-zcmp.maillist-manage.eu
