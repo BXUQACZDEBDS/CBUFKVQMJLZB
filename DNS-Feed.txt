@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+app.getresponse.com
+##### 30.08.2023
 eswisenhanse.from-sc.com
 ##### 24.08.2023
 chlogin-zdeiamadmin-c939af.ingress-baronn.ewp.live
