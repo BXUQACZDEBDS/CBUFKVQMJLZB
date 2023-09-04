@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+sicherheitskonto.com
+##### 04.09.2023
 app.getresponse.com
 ##### 30.08.2023
 eswisenhanse.from-sc.com
