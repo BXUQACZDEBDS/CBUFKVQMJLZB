@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+email.pipingrock.com
+##### 22.09.2023
 myappbestnkunz.com
 ##### 21.09.2023
 chaafha.jp.net
