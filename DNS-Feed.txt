@@ -3,6 +3,14 @@
 ################################################################
 #
 # DNS
+a-1bcdn.com
+avayacloud.com.global.prod.fastly.net
+drkgatevservicceoffice.net
+intranet.mcasavaya.com
+onlysportsfitnessam.com
+reactervnamnat.com
+sanibroadbandcommunicton.duckdns.org
+xfirecovery.pro
 tutanota.com
 tutamail.com
 tuta.io
