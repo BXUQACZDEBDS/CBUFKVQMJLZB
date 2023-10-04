@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+bk1cv.r.ag.d.sendibm3.com
+##### 04.10.2023
 a-1bcdn.com
 avayacloud.com.global.prod.fastly.net
 drkgatevservicceoffice.net
