@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+athena.hhmtelemedicine.com
 heimatfoundation.com
 ##### 19.10.2023
 blindatek.lt.acemlnc.com
