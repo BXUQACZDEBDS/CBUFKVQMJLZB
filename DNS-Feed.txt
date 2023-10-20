@@ -3,6 +3,10 @@
 ################################################################
 #
 # DNS
+xn--eepass-vbb.info
+keeqass.info
+ķeepass.info
+##### 20.10.2023
 athena.hhmtelemedicine.com
 heimatfoundation.com
 ##### 19.10.2023
