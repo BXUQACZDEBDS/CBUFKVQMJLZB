@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+t.gistmail1.com
 news.berkah365.net
 news.smailchadmi.com
 subsriber.probacca.com
