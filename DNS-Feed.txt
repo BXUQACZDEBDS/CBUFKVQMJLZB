@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+auth-pharmacy.formstack.com
+##### 07.11.2023
 t.gistmail1.com
 news.berkah365.net
 news.smailchadmi.com
