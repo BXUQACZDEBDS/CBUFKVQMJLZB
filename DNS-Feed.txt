@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+acemlnc.com
 amplifyapp.com
 ##### 24.11.2023
 winslotxo.lt.acemlnc.com
