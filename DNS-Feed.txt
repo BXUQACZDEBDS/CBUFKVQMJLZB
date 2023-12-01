@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+clfmarca.com
+01.12.2023
 gbits.me
 3c-bap.gmx.net
 chpost-deliverdhlcent.merseine.com
