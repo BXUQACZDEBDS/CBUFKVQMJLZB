@@ -3,6 +3,9 @@
 ################################################################
 #
 # DNS
+post-ch.manage-account.de
+salims1.sg-host.com
+05.12.2023
 clfmarca.com
 01.12.2023
 gbits.me
