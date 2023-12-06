@@ -3,15 +3,17 @@
 ################################################################
 #
 # DNS
+123cerises.com
+##### 06.12.2023
 post-ch.manage-account.de
 salims1.sg-host.com
-05.12.2023
+##### 05.12.2023
 clfmarca.com
-01.12.2023
+##### 01.12.2023
 gbits.me
 3c-bap.gmx.net
 chpost-deliverdhlcent.merseine.com
-30.11.2023
+##### 30.11.2023
 hubspotlinksfree.com
 ##### 27.11.2023
 acemlnc.com
