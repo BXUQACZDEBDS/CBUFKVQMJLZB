@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+u40195353.ct.sendgrid.net
+##### 12.12.2023
 buildarray.com
 claim-your-rewards.ch
 headideas28970.lt.acemlnc.com
