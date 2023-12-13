@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+eusketxe.com
 brahmacouncil.com
 newsletter.carsidoviz.com
 ##### 13.12.2023
