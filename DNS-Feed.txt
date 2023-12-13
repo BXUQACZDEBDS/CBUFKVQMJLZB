@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+brahmacouncil.com
 newsletter.carsidoviz.com
 ##### 13.12.2023
 u40195353.ct.sendgrid.net
