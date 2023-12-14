@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+shoutout.wix.com
+##### 14.12.2023
 eusketxe.com
 brahmacouncil.com
 newsletter.carsidoviz.com
