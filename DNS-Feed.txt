@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+/www.buildarray.com
+vrj.mmm.mybluehost.me
 agoda.onelink.me
 ##### 15.12.2023
 shoutout.wix.com
