@@ -3,7 +3,7 @@
 ################################################################
 #
 # DNS
-/www.buildarray.com
+www.buildarray.com
 vrj.mmm.mybluehost.me
 agoda.onelink.me
 ##### 15.12.2023
