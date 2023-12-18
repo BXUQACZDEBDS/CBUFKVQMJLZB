@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+u7351105.ct.sendgrid.net
+##### 18.12.2023
 www.buildarray.com
 vrj.mmm.mybluehost.me
 agoda.onelink.me
