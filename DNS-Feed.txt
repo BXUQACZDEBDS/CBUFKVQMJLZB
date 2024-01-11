@@ -3,6 +3,10 @@
 ################################################################
 #
 # DNS
+symantke.com 
+webb-institut.com
+gpoaccess.com 
+##### 10.01.2024
 ow.ly
 ##### 03.01.2024
 ifa-fitness.formstack.com
