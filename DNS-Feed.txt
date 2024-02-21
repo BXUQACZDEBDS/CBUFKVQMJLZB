@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+supremedjent.com
+##### 21.02.2024
 app.thenewssquare.com
 ##### 08.02.2024
 cdn.theaudiobee.com
