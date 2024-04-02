@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+ch-postd.com
 post-cme.top
 ##### 02.04.2024
 support-customer-security-10026565431.netlify.app
