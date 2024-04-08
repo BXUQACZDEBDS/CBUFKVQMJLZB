@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+postcyn.top
 netlify.app
 helpful-upcake-2d9c1b.netlify.app
 linkup.top
