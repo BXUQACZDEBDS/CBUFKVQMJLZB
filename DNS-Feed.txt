@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+linkup.top
 elasabeprovocar.b12sites.com
 ##### 08.04.2024
 ccl01srv.com
