@@ -4,6 +4,7 @@
 #
 # URL
 http://swisspasstoken.activehosted.com/
+https://swisspasstoken.activehosted.com/
 http://swisspasstoken.activehosted.com/proc.php?nl=2&c=2&m=6&s=df132f5928a5aa135b250ef99a34b0bd&act=unsub
 https://swisspassidsbbcff.sviluppo.host/auth/Entry.php
 https://swisspassidsbbcff.sviluppo.host/
