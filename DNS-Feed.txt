@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+offerproposal.click
+##### 29.04.2024
 swisspasstoken.activehosted.com
 swisspassidsbbcff.sviluppo.host
 ##### 24.04.2024
