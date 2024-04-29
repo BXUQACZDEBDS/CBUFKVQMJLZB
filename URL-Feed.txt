@@ -3,6 +3,8 @@
 ################################################################
 #
 # URL
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:94684c90-991c-41dd-8ac6-aa0438f76723
+##### 29.04.2024
 http://swisspasstoken.activehosted.com/
 https://swisspasstoken.activehosted.com/
 http://swisspasstoken.activehosted.com/proc.php?nl=2&c=2&m=6&s=df132f5928a5aa135b250ef99a34b0bd&act=unsub
