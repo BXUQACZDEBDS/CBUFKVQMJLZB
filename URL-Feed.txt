@@ -3,6 +3,21 @@
 ################################################################
 #
 # URL
+https://185.38.150.8:443/star/key
+http://178.250.188.114/ubuntu/focal
+http://185.225.114.90/accept
+http://194.61.121.211/application
+http://195.154.182.165/checkhealth
+http://196.245.156.154/map/title
+http://91.92.137.164/json
+https://165.231.34.106/users/me
+https://178.250.188.114/ubuntu/focal
+https://185.225.114.90/accept
+https://194.61.121.211/application
+https://195.154.182.165/checkhealth
+https://196.245.156.154/map/title
+https://91.92.137.164/json
+##### 01.05.2024
 https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:94684c90-991c-41dd-8ac6-aa0438f76723
 ##### 29.04.2024
 http://swisspasstoken.activehosted.com/
