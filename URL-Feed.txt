@@ -3,6 +3,8 @@
 ################################################################
 #
 # URL
+https://voltweaver-currenttracker.blogspot.ch/
+##### 02.09.2024 - Phishing
 http://79.137.192.4/p2p
 https://register-agov.net /AGOV-Access.dmg
 https://register-agov.com/AGOV-Access.dmg
