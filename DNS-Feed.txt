@@ -3,6 +3,10 @@
 ################################################################
 #
 # DNS
+my.hostpoint.co.uk
+oc.hostpoint.co.uk
+voltweaver-currenttracker.blogspot.ch
+##### 02.09.2024 - Phishing
 vjuum.com
 laafd.com
 dpptd.com
