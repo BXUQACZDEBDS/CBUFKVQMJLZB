@@ -3,6 +3,9 @@
 ################################################################
 #
 # DNS
+gopu-oipy-3954.pages.dev
+gopu-oipy.standard.us-east-1.oortech.com
+##### 09.09.2024 - Phishing
 my.hostpoint.co.uk
 oc.hostpoint.co.uk
 voltweaver-currenttracker.blogspot.ch
