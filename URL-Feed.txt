@@ -5,6 +5,7 @@
 # URL
 https://gopu-oipy-3954.pages.dev/
 https://gopu-oipy.standard.us-east-1.oortech.com/
+https://gopu-oipy.standard.us-east-1.oortech.com/iex.php
 ##### 09.09.2024 - Phishing
 https://my.hostpoint.co.uk/
 https://oc.hostpoint.co.uk/
