@@ -3,6 +3,7 @@
 ################################################################
 #
 # URL
+arweave.net/
 https://gopu-oipy-3954.pages.dev/
 https://gopu-oipy.standard.us-east-1.oortech.com/
 https://gopu-oipy.standard.us-east-1.oortech.com/iex.php
