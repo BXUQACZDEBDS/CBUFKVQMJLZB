@@ -1,7 +1,9 @@
 ################################################################
 # IP O365 Graph API                                            #
 ################################################################
-#
+# 
+# Quelle https://learn.microsoft.com/en-us/microsoft-365/enterprise/additional-office365-ip-addresses-and-urls?view=o365-worldwide Abschnitt 23
+# 
 # IP Source
 52.159.23.209
 52.159.17.84
