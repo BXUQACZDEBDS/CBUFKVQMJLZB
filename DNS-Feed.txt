@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+email.m.quizbreaker.com
+##### 31.10.2024
 idp3.suisseid-idp.ch
 suisseid-idp.ch
 *.idp3.suisseid-idp.ch
