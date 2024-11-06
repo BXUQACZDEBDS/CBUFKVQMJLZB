@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+familytherapycenter.rs
+##### 06.11.2024 - Malware
 email.m.quizbreaker.com
 ##### 31.10.2024
 idp3.suisseid-idp.ch
