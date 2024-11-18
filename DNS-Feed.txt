@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+toe.planistrod.com
 whimsical.com
 d.adroll.com
 lclsocial.org
