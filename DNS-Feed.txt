@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+mycss-portal.lodgify.com
 toe.planistrod.com
 whimsical.com
 d.adroll.com
