@@ -3,6 +3,9 @@
 ################################################################
 #
 # URL
+https://sw.thedatatank.org/
+https://calendly.com/notification_subscriptions/b477f1e1-4365-4fdf-bb0a-cdb624151785/opt_out?owner_uuid=c969b196-a88f-487f-b291-6e07e62c5ed3&recipient_id=1122403479&recipient_email=gerard.friedlander%40u-paris.fr&opt_out_method=button&event_uuid=afdfed53-c52c-48d3-98a6-51490a68419a&event_type_uuid=2ce66e78-00ac-403d-89d7-d1e13100f037
+##### 22.11.2024 - Phishing-Mail
 https://mycss-portal.lodgify.com/
 https://toe.planistrod.com/P8b5QFr/
 https://whimsical.com/project-960-2024-doc-KUa9Z37ZsDmpPxB99pof8A
