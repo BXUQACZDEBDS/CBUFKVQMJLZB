@@ -12,6 +12,8 @@ toe.planistrod.com
 whimsical.com
 s.adroll.com
 d.adroll.com
+*.adroll.com
+adroll.com
 lclsocial.org
 stackstaging.com
 ##### 18.11.2024 - Phsihing-Mail
