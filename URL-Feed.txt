@@ -3,6 +3,7 @@
 ################################################################
 #
 # URL
+https://u10306045.ct.sendgrid.net/
 https://tlx.virtualevents.straumann.com/wp-includes/pomo/easy/
 ##### 27.12.2024 - Phishing Mail
 https://sw.thedatatank.org/
