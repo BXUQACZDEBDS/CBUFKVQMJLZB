@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+https://u10306045.ct.sendgrid.net/
+##### 27.12.2024 - Phishing-Mail
 https://u48506209.ct.sendgrid.net
 #### 02.12.2024
 https://sw.thedatatank.org/
