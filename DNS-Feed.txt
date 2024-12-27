@@ -3,11 +3,11 @@
 ################################################################
 #
 # DNS
-https://u10306045.ct.sendgrid.net/
+u10306045.ct.sendgrid.net/
 ##### 27.12.2024 - Phishing-Mail
-https://u48506209.ct.sendgrid.net
+u48506209.ct.sendgrid.net
 #### 02.12.2024
-https://sw.thedatatank.org/
+sw.thedatatank.org/
 ##### 22.11.2024 - Phsihing-Mail
 mycss-portal.lodgify.com
 toe.planistrod.com
