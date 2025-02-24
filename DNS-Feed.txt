@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+binssl.asiantractor.com
+##### 24.02.2025 - Phishing-Mail
 ctrk.klclick3.com
 ##### 13.02.2025 - Phishing-Mail
 wwwprotectioncloud.app
