@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+toyooka-0166.com
+##### 19.03.2025 - Phishing
 fast.fonts.net
 ##### 11.03.2025 - Möglicherweise compromised
 binssl.asiantractor.com
