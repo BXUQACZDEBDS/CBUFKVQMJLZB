@@ -3,6 +3,9 @@
 ################################################################
 #
 # DNS
+linkin.bio
+later.com
+##### 27.03.2025 - Phishing
 parkovka82.ru
 ##### 20.03.2025 - Phishing
 toyooka-0166.com
