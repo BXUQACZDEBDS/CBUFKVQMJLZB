@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+calfdistinctionvirtual.com
 ##### 10.0.2025 - Phishing
 u15246165.ct.sendgrid.net
 linkin.bio
