@@ -3,8 +3,10 @@
 ################################################################
 #
 # DNS
+url9214.as-list9.com
+##### 06.05.2025 - Phishing
 calfdistinctionvirtual.com
-##### 10.0.2025 - Phishing
+##### 10.04.2025 - Phishing
 u15246165.ct.sendgrid.net
 linkin.bio
 later.com
