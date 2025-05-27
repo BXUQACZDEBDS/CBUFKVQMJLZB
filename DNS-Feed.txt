@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+kounoyu.com
+maf-ch.rykuxfyhmm.com
 shorturl.asia
 shop.walletb.net
 mycss-versicherung.cnsdisplays.com
