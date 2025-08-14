@@ -3,8 +3,10 @@
 ################################################################
 #
 # URL
+https://nickel.bluestonepath.za.com/
+##### 14.08.2025 - Phishing
 https://www.landscape-design-ideas.net/led/surging/cuspidor/redefinition
-##### 07.05.22 - Phishing
+##### 07.05.25 - Phishing
 https://ragnar.tmadev.co.uk
 ##### 22.04.2025 - Phishing
 https://calfdistinctionvirtual.com/en/
@@ -1911,3 +1913,4 @@ http://lovableduck.ru/host/drops/k1rf7fmny/lr2xfd9m9.exe
 http://ilovetheducks.ru/host/drops/e563bgj4y/hrldcrajl.exe
 http://ilovetheducks.ru/host/drops/JTQ4iHTm3/wT9lPlvPK.exe
 ##### 07.12.2022
+
