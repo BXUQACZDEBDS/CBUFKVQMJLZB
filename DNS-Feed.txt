@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+https://nickel.bluestonepath.za.com/
+##### 14.08.2025 - Phishing
 ifigettheprice.com
 # 16.06.2025 - Phishing
 kounoyu.com
@@ -2229,3 +2231,4 @@ quackquack.ru
 smallduck.ru
 Ducklogs.com
 ##### 07.12.2022
+
