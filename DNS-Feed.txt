@@ -3,6 +3,9 @@
 ################################################################
 #
 # DNS
+*.biz.spectrum.com
+syn-089-234-149-030.biz.spectrum.com/
+##### 02.09.2025 - Phishing
 http://syn-089-234-149-030.biz.spectrum.com/
 ##### 02.09.2025 - Phishing
 stanislavmarhold.cz
@@ -2235,6 +2238,7 @@ quackquack.ru
 smallduck.ru
 Ducklogs.com
 ##### 07.12.2022
+
 
 
 
