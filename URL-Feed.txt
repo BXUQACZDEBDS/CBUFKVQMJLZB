@@ -3,6 +3,9 @@
 ################################################################
 #
 # URL
+http://syn-089-234-149-030.biz.spectrum.com/
+https://shulives.com/*
+##### 02.09.2025 - Phishing
 stanislavmarhold.cz
 https://t.co/fm3x16k3gt
 ##### 25.08.2025 - Phishing
@@ -1916,6 +1919,7 @@ http://lovableduck.ru/host/drops/k1rf7fmny/lr2xfd9m9.exe
 http://ilovetheducks.ru/host/drops/e563bgj4y/hrldcrajl.exe
 http://ilovetheducks.ru/host/drops/JTQ4iHTm3/wT9lPlvPK.exe
 ##### 07.12.2022
+
 
 
 
