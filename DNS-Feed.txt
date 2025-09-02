@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+shulives.com
 *.biz.spectrum.com
 syn-089-234-149-030.biz.spectrum.com/
 ##### 02.09.2025 - Phishing
@@ -2238,6 +2239,7 @@ quackquack.ru
 smallduck.ru
 Ducklogs.com
 ##### 07.12.2022
+
 
 
 
