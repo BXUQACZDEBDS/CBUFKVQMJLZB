@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+http://syn-089-234-149-030.biz.spectrum.com/
+##### 02.09.2025 - Phishing
 stanislavmarhold.cz
 ##### 25.08.2025 - Phishing
 https://nickel.bluestonepath.za.com/
@@ -2233,6 +2235,7 @@ quackquack.ru
 smallduck.ru
 Ducklogs.com
 ##### 07.12.2022
+
 
 
 
