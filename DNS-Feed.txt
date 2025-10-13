@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+cv.preis.net
+##### 13.10.2025 - Spam/Phishing
 shulives.com
 *.biz.spectrum.com
 syn-089-234-149-030.biz.spectrum.com/
@@ -2239,6 +2241,7 @@ quackquack.ru
 smallduck.ru
 Ducklogs.com
 ##### 07.12.2022
+
 
 
 
