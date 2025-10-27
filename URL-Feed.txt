@@ -3,6 +3,7 @@
 ################################################################
 #
 # URL
+https://*.*.myftpupload.com/pakket/index.php
 https://q3w.02a.myftpupload.com/*
 ##### 27.10.2025 - Phishing
 https://cv.preis.net/*
@@ -1923,6 +1924,7 @@ http://lovableduck.ru/host/drops/k1rf7fmny/lr2xfd9m9.exe
 http://ilovetheducks.ru/host/drops/e563bgj4y/hrldcrajl.exe
 http://ilovetheducks.ru/host/drops/JTQ4iHTm3/wT9lPlvPK.exe
 ##### 07.12.2022
+
 
 
 
