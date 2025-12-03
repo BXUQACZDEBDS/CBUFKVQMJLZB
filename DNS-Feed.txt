@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+##### 03.12.2025 - Phishing
+click.mailchannels.net
 ##### 14.11.2025 - Phishing
 qrcodeveloper.com
 ##### 07.11.2025 - Spam/Phishing
@@ -2248,6 +2250,7 @@ quackquack.ru
 smallduck.ru
 Ducklogs.com
 ##### 07.12.2022
+
 
 
 
