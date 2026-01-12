@@ -3,12 +3,11 @@
 ################################################################
 #
 # DNS
-##### 12.01.2026 - Phishing
 *.tweedphysio.au
 iduser6798522-gatewayinformation356598.tweedphysio.au
 *.stefanvladar.com
 managerid35292295-switzerlandinfo.stefanvladar.com
-##### 05.01.2026 - Phishing
+##### 12.01.2026 - Phishing
 wix-com-ca.blogspot.ch
 ##### 03.12.2025 - Phishing
 click.mailchannels.net
@@ -2257,6 +2256,7 @@ quackquack.ru
 smallduck.ru
 Ducklogs.com
 ##### 07.12.2022
+
 
 
 
