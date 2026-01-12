@@ -3,6 +3,9 @@
 ################################################################
 #
 # DNS
+##### 12.01.2026 - Phishing
+*.stefanvladar.com
+managerid35292295-switzerlandinfo.stefanvladar.com
 ##### 05.01.2026 - Phishing
 wix-com-ca.blogspot.ch
 ##### 03.12.2025 - Phishing
@@ -2252,6 +2255,7 @@ quackquack.ru
 smallduck.ru
 Ducklogs.com
 ##### 07.12.2022
+
 
 
 
