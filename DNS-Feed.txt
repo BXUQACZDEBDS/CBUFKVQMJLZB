@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+lexware-appgeschaftskonto.akmroasters.com
 *.tweedphysio.au
 iduser6798522-gatewayinformation356598.tweedphysio.au
 *.stefanvladar.com
@@ -2256,6 +2257,7 @@ quackquack.ru
 smallduck.ru
 Ducklogs.com
 ##### 07.12.2022
+
 
 
 
