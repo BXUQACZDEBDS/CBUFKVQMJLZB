@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+*.soundestlink.com
+##### 09.02.2026 - Phishing
 iplogger.com
 432catnap.rivfrden.com
 *.rivfrden.com
@@ -2261,6 +2263,7 @@ quackquack.ru
 smallduck.ru
 Ducklogs.com
 ##### 07.12.2022
+
 
 
 
