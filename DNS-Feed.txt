@@ -3,6 +3,7 @@
 ################################################################
 #
 # DNS
+anatomies.shop
 y4z2g8i2lk.soundestlink.com/
 *.soundestlink.com
 ##### 09.02.2026 - Phishing
@@ -2264,6 +2265,7 @@ quackquack.ru
 smallduck.ru
 Ducklogs.com
 ##### 07.12.2022
+
 
 
 
