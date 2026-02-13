@@ -3,10 +3,11 @@
 ################################################################
 #
 # DNS
+*.formation-seo-ecom.com
 hpanel-sso-appid8273918-customer.formation-seo-ecom.com
 ### 12.02.2026 Phishing
 anatomies.shop
-y4z2g8i2lk.soundestlink.com/
+y4z2g8i2lk.soundestlink.com
 *.soundestlink.com
 ##### 09.02.2026 - Phishing
 iplogger.com
@@ -2267,6 +2268,7 @@ quackquack.ru
 smallduck.ru
 Ducklogs.com
 ##### 07.12.2022
+
 
 
 
