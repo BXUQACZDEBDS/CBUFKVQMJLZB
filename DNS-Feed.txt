@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+app-hpanelid-3468567-ssomanager.scheidacker.ch
+### 17.02.2025 Phishing
 *.formation-seo-ecom.com
 hpanel-sso-appid8273918-customer.formation-seo-ecom.com
 ### 12.02.2026 Phishing
@@ -2268,6 +2270,7 @@ quackquack.ru
 smallduck.ru
 Ducklogs.com
 ##### 07.12.2022
+
 
 
 
