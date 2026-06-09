@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+intranet-agrepe.agrepe.com/
+##### 09.06.2026 - Phishing
 help-jdtqfrj.atilim.ge
 #### 09.04.2026 - Phishing
 manager-areclienti-sawnit.designerplumbing.com.au
