@@ -3,10 +3,12 @@
 ################################################################
 #
 # URL
+https://intranet-agrepe.agrepe.com/*
+##### 09.06.2026 - Phishing
 https://wohlgrothch-my.sharepoint.com
-#### 03.06.2026 - BEC
+##### 03.06.2026 - BEC
 https://help-jdtqfrj.atilim.ge
-#### 09.04.2026 - Phishing
+##### 09.04.2026 - Phishing
 https://*.*.myftpupload.com/pakket/index.php
 https://q3w.02a.myftpupload.com/*
 ##### 27.10.2025 - Phishing
