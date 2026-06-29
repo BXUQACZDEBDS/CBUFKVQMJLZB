@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+####29.06.2026 Phishing
+sw.hetlegemidden.nu
 trip-trend.com
 intranet-agrepe.agrepe.com
 ##### 09.06.2026 - Phishing
