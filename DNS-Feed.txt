@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+####30.07.2026 Phishing
+alishabbirtrust.com
 ####20.07.2026 Phishing
 cnsb4359.r.us-east-1.awstrack.me
 ####29.06.2026 Phishing
