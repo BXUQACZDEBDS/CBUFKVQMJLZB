@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+####07.08.2026 Phishing
+assign-file.sharpbranding.de
 ####06.08.2026 Phishing
 acp-nc.com
 ####30.07.2026 Phishing
