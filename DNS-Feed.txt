@@ -3,11 +3,13 @@
 ################################################################
 #
 # DNS
-####07.08.2026 Phishing
+#####02.09.2026 - Phishing
+pppk.squarespace.com
+####07.08.2026 - Phishing
 assign-file.sharpbranding.de
 ####06.08.2026 Phishing
 acp-nc.com
-####30.07.2026 Phishing
+####30.07.2026 - Phishing
 alishabbirtrust.com
 ####20.07.2026 Phishing
 cnsb4359.r.us-east-1.awstrack.me
