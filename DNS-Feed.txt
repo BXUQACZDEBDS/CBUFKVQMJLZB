@@ -3,6 +3,8 @@
 ################################################################
 #
 # DNS
+#####08.10.2026 - Phishing
+newroofingmaryland.com
 #####02.09.2026 - Phishing
 pppk.squarespace.com
 ####07.08.2026 - Phishing
